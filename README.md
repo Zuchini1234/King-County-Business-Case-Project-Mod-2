@@ -4,6 +4,59 @@
 
 ## Introduction
 
+The purpose of this project is to analyze housing in King County, Washington; specifically, to se whether we can identify which features of a house in King County are most indicative of its price. To do see we will primarily be using linear regression (more on that below) through various Python libraries. 
+
+## What is Linear Regression:
+
+Linear Regression is a method of predictive modeling. It tries to predict an outcome (often referred to as the dependent variable or x) from an input variable (the independant variable or y). This can also be done with multiple input variables and is then called Multiple Linear Regression. This differs from Multivariate Linear Regression which predicts multiple dependent variables. The ouput of this method is scalar, in that it identifies both direction and magnitude of relationship. In other words, it identifies the expected change in y for every change in x. 
+
+Even though Linear Regression is one of the least accurate prediction models, it is the most interpretable. There is a inverse correlation between the complexity, and by extent accuracy, of a model and its accuracy. Linear Regression is used because despite its lower relative accuracy compared to other Machine Learning models, it is highly interpretable. Linear Regression presents a model that can be scaled to acceptable accuracy by including multiple features while still being very easy to gain insight from and present. There is an interesting article on this topic on this link (https://towardsdatascience.com/model-complexity-accuracy-and-interpretability-59888e69ab3d). 
+
+## Outline
+
+This project is centred on a dataset containing property information from King County, Washington; containing features of a property such as square footage, rooms, floors, price and several others. The dataset used was modified for the purposes of this project, but the original dataset can be found on Kaggle on the following link: https://www.kaggle.com/harlfoxem/housesalesprediction. 
+
+#### File Structure
+
+1. README.md 
+
+    This is the document you are reading right now! This contains an overview of the project, its execution and a few of the insights generated from it. 
+
+2. student.ipynb 
+    
+    Contains the core code used to analyse the data and step-by-step descriptions of what is being done. This code follows multiple avenues, some of which did not form part of the conclusion but rather showed the process of getting there. There are multiple markdown cells through the jupyter notebook that explain the progression of work. 
+    
+3. mod_2_presentation
+
+    Contains slides for a presentation on the main actionable insights gained from this project.  
+    
+4. zippedData
+
+    Contains the data that was used for this project. This dataset is different to the one that can be found on the Kaggle link above. 
+   
+## Questions
+
+1. Which feature of a house is most indicative of the house's price?
+    In other words, if you could ask one question about a property's features to guess its price, which question should you ask? 
+
+2. What if you could ask five questions?
+    With which five features of a property are most likely to be able to accurately predict a property's price?
+    
+3. What advice can you give to someone looking to buy a home in King County?
+    The benchmark for success in this area is value, can you recommend a type of home that is often undervalued, gaining the buyer a bargain? Or are there any things to avoid?
+    
+4. Imagine a real estate developer approaches you looking to expand into King County. What advice would you give them?
+    How could they best realize a healthy profit with the insights this dataset offers?
+
+## Answers (consider putitng this as part of the same section with Questions)
+
+
+
+
+
+
+## Introduction
+
 In this lesson, we'll review all of the guidelines and specifications for the final project for Module 2.
 
 ## Objectives
