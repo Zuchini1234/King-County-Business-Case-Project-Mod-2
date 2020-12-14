@@ -1,6 +1,7 @@
 
 # Module 2 Final Project
 
+![Seattle Skyline](https://github.com/Zuchini1234/King-County-Business-Case-Project-Mod-2/blob/master/Images/Seattle_Skyline.jpeg)
 
 ## Introduction
 
