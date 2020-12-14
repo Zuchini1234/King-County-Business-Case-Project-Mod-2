@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The purpose of this project is to analyze housing in King County, Washington; specifically, to se whether we can identify which features of a house in King County are most indicative of its price. To do see we will primarily be using linear regression (more on that below) through various Python libraries. 
+The purpose of this project is to analyze housing in King County, Washington; specifically, to see whether we can identify which features of a house in King County are most indicative of its price. To do see we will primarily be using linear regression (more on that below) through various Python libraries. 
 
 ## What is Linear Regression:
 
@@ -36,12 +36,10 @@ This project is centred on a dataset containing property information from King C
    
 ## Questions
 
-1. Which feature of a house is most indicative of the house's price?
+1. Which single feature of a house is most indicative of the house's price?
     In other words, if you could ask one question about a property's features to guess its price, which question should you ask? 
 
-2. What if you could ask five questions?
-    With which five features of a property are most likely to be able to accurately predict a property's price?
-    
+ 
 3. What advice can you give to someone looking to buy a home in King County?
     The benchmark for success in this area is value, can you recommend a type of home that is often undervalued, gaining the buyer a bargain? Or are there any things to avoid?
     
