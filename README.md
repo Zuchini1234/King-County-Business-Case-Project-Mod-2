@@ -48,7 +48,7 @@ This project is centred on a dataset containing property information from King C
    
 ## Questions and Scenarios
 
-![Images/Price_Map](Price_Map.png)
+![Price_Map](https://github.com/Zuchini1234/King-County-Business-Case-Project-Mod-2/blob/master/Images/Price_Map.png)
 
 **Question 1**
 
